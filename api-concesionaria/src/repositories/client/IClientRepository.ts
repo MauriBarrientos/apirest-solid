@@ -1,4 +1,3 @@
-// src/repositories/client/IClientRepository.ts
 import { IClient } from '../../models/IClient';
 
 export interface IClientRepository {
